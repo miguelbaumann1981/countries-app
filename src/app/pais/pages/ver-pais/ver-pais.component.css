@@ -1,0 +1,16 @@
+h1 {
+    color: grey;
+    font-weight: 400;
+    
+}
+h1 small {
+    color: brown;
+    font-weight: 700;       
+}
+
+.row {
+    margin-bottom: 30px;
+}
+h3 {
+    color: lightcoral;
+}
